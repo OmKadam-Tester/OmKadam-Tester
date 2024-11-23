@@ -1,26 +1,27 @@
 # 👨‍💻 Om Kadam | Software Tester  
 
 🌟 **Welcome to my GitHub Profile!** 🌟  
-I'm Om Kadam (Manual + Automation )
+I'm Om Kadam ( Manual + Automation )
 ---
 
 ## 🛠️ My Tech Stack  
 
 ### Testing & Automation Tools  
 - Automation: Selenium, TestNG
-- Manual Testing: Functional, Regression, End-to-End Testing    
-- **API Testing**: Postman
+- Manual Testing: Functional, Regression, End-to-End Testing ,Sanity Testing,Smoke Testing  
+- API Testing: Postman
 
 ### Development Tools  
-- Programming: Java
-- Frameworks: Spring Boot, Hibernate  
+- Programming: Java , C++
+- Frameworks: Spring Boot, Hibernate
+- Database: MySql
 - Version Control: Git, GitHub
 
 ---
 
 ## 💡 How to Reach Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/omkadam1))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/omkadam1)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:omkadam.ok29@gmail.com)  
 
 ---
